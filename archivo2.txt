@@ -4,4 +4,5 @@
 2- Direccion Informatica 
 2- Rectorado
 2- Ayacucho 491
-2- San Miguel de Tucuman
+2.5
+2- San Miguel
